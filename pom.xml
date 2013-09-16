@@ -15,7 +15,7 @@
 
   <modules>
     <module>rangebar</module>
-    <!--<module>RangeBarSample</module>-->
+    <module>RangeBarSample</module>
   </modules>
 
   <scm>
